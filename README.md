@@ -23,16 +23,20 @@ Prerequisites
    git clone https://github.com/ShivamSinha08/CricketScoring-Project.git
    cd CricketScoring-Project
 cd client
+
 npm install
 
 
 cd ../server
+
 npm install
 
 
 cd server
+
 npm run dev
 
 cd client
+
 npm run dev
 
